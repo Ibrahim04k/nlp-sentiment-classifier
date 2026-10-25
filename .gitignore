@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+.venv
+env/
+venv/
+ENV/
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Large datasets (optional: keep reviews.csv or ignore if >50MB)
+data/reviews.csv
+
+# Huggingface cache
+.cache/
